@@ -1,0 +1,11 @@
+<svg width="292" height="177" viewBox="0 0 292 177" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="ContactSimple">
+<g id="Rectangle 7">
+<mask id="path-1-inside-1" fill="white">
+<rect width="292" height="177" rx="12"/>
+</mask>
+<rect width="292" height="177" rx="12" stroke="#F2F2F2" stroke-width="32" mask="url(#path-1-inside-1)"/>
+</g>
+<path id="Vector 59" d="M9 54L148.309 128L285 54" stroke="#F2F2F2" stroke-width="16"/>
+</g>
+</svg>
