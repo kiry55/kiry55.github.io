@@ -575,7 +575,8 @@ h3, .heading3 {
       line-height: 1.5;
       text-transform: uppercase;
       text-decoration: none;
-      transition: 0.3s; }
+      transition: 0.3s; 
+      font-weight:300;}
 
 .navopen .sideNav {
   width: 100vw;
