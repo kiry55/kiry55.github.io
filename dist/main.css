@@ -653,3 +653,7 @@ footer {
 @media screen and (min-width: 1024px) {
   .logo {
     margin-left: 0px; } }
+
+@media screen and (max-width: 900px) {
+  .Indicator {
+    margin-top: 1.2rem; } }
