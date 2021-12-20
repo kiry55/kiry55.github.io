@@ -659,6 +659,7 @@ footer {
   .logo {
     margin-left: 0px; } }
 
+
 .Indicator {
   margin-top: 10px;
   font-size: 40px;
@@ -667,3 +668,6 @@ footer {
 @media screen and (max-width: 1024px) {
   .Indicator {
     margin-top: 1.2rem; } }
+
+#cp {
+  padding-top:100px;}
