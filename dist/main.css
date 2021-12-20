@@ -178,20 +178,25 @@ h3, .heading3 {
     max-width: 360px;
     text-align: center; }
   .card__text {
-    padding-bottom: 3rem; }
+    padding-bottom: 10rem; 
+    line-height:intial;
+    line-weight:300;}
     .card__text--ip {
-      max-width: 350px;
-      font-size: 18px; }
+      max-width: 420px;
+      font-size: 27px;
+      line-height:initial;}
     .card__text--team {
       max-width: 320px;
       font-size: 18px; }
     .card__text--dark {
-      opacity: .7; }
+      opacity: 1; }
   .card__subtext {
     margin-top: 6px;
     padding-bottom: 1rem; }
   .card__description {
-    font-size: 20px;
+    line-height:initial;
+    font-size: 27px;
+    font-weight:300;
     opacity: 0.7;
     max-width: 380px;
     text-align: center; }
@@ -213,7 +218,7 @@ h3, .heading3 {
   .card__imgWrapper {
     margin-top: 0rem; }
   .card__text--team {
-    font-size: 22px; } }
+    font-size: 27px; } }
 
 @media screen and (min-width: 768px) {
   .card__imgWrapper {
@@ -335,8 +340,8 @@ h3, .heading3 {
 
 @media screen and (min-width: 992px) {
   .Carousel {
-    padding-top: 50px;
-    padding-bottom: 50px; }
+    padding-top: 150px;
+    padding-bottom: 150px; }
   .carousel__text {
     font-size: 69px; }
     .carousel__text--multiline {
