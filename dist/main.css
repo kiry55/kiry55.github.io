@@ -654,6 +654,11 @@ footer {
   .logo {
     margin-left: 0px; } }
 
+.Indicator {
+  margi-top: 10px;
+  font-size: 40px;
+  text-align: center;}
+
 @media screen and (max-width: 900px) {
   .Indicator {
     margin-top: 1.2rem; } }
