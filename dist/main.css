@@ -659,6 +659,6 @@ footer {
   font-size: 40px;
   text-align: center;}
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1024px) {
   .Indicator {
     margin-top: 1.2rem; } }
