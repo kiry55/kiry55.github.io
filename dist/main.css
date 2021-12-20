@@ -179,8 +179,9 @@ h3, .heading3 {
     text-align: center; }
   .card__text {
     line-height:initial;
-    line-weight:300;}
-    .card__text--ip {
+    line-weight:300;
+    padding-bottom:50px;}
+   .card__text--ip {
       max-width: 425px;
       font-size: 27px;
       line-height:initial;}
