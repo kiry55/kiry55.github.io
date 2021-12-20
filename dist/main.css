@@ -178,8 +178,7 @@ h3, .heading3 {
     max-width: 360px;
     text-align: center; }
   .card__text {
-    padding-bottom: 10rem; 
-    line-height:intial;
+    line-height:initial;
     line-weight:300;}
     .card__text--ip {
       max-width: 420px;
@@ -218,7 +217,8 @@ h3, .heading3 {
   .card__imgWrapper {
     margin-top: 0rem; }
   .card__text--team {
-    font-size: 27px; } }
+    font-size: 27px; 
+    line-height: initial;} }
 
 @media screen and (min-width: 768px) {
   .card__imgWrapper {
